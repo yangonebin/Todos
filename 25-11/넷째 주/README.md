@@ -27,3 +27,11 @@
 4. Chapter 05. Dimensionality Reduction (-5시)
 5. [데이터사이언스 활용] 머신러닝 개요 및 평가지표 (-6시)
 + Atari 논문 experiment
+
+## 25-11-28
+
+
+1. 관통프로젝트 (-4시)
+2. 빅분기 실기 기출 10회 2회독 (-6시)
+3. AI 논문 스터디 (-10시)
+4. Chapter 06. Anomaly Detection (-12시)
