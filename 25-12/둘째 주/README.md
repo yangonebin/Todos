@@ -13,6 +13,13 @@
 2. [데이터 엔지니어링 활용 Ⅱ] Elasticsearch 아키텍처와 데이터 처리
 3. [데이터 엔지니어링 활용 Ⅱ] Elasticsearch analyzer & mapping
 4. [데이터 엔지니어링 활용 Ⅱ] Elasticsearch search & aggregation
-5. [데이터 엔지니어링 활용 Ⅱ] Kibana를 통한 Elasticsearch 시각화
-6. Chapter 6. 언어 모델링
-7. 가슴 운동 (7시)
+5. Chapter 6. 언어 모델링
+6. 가슴 운동 (7시)
+
+## 25-12-10 
+
+1. 수업 & 과제 (-12시)
+2. 가슴 운동 (-1시)
+3. [데이터 엔지니어링 활용 Ⅱ] Kibana를 통한 Elasticsearch 시각화
+4. [데이터 엔지니어링 활용 Ⅱ] Hadoop 기본 구조와 설치
+5. Part 12. 강화 학습
